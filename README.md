@@ -50,7 +50,7 @@
 <h3 align="left">To Do</h3>
 <ul>
   <li>[ ] Update handling to realistic class system.</li>
-  <li>[ ] Begin adding the following categories: "Boats | Commercial | Compacts | Coupes | Cycles | Emergency | Helicopters | Industrial | Military | Motorcycles | Muscle | Planes | Sedans | Service | Sports | Sports Classics | Super | SUVs | Utility | Vans"</li>
+  <li>[ ] Begin adding the following categories: Boats | Commercial | Compacts | Coupes | Cycles | Emergency | Helicopters | Industrial | Military | Motorcycles | Muscle | Planes | Sedans | Service | Sports | Sports Classics | Super | SUVs | Utility | Vans</li>
   <!-- Add more items with [ ] to mark them as unchecked -->
 </ul>
 
@@ -61,8 +61,7 @@
   <li>[ ] Ensure LF_Offroad.</li>
   <li>[ ] Adding cars to dealerships.</li>
   <li>[ ] Add to <code>'qb-core/shared/vehicles.lua'</code>.</li>
-  <li>[ ] <details>
-  <summary>Click to Expand - Qbcore Vehicles Code</summary>
+  <li>[ ] <details><summary>Click to Expand - Qbcore Vehicles Code</summary>
   <code>{ model = 'rebelservice', name = 'Rebel Service', brand = 'Karin', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'rebelutility', name = 'Rebel Utility', brand = 'Karin', price = 20000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'frakas', name = 'Frakas', brand = 'Dinka', price = 16000, category = 'offroad', type = 'automobile', shop = 'pdm' },
