@@ -99,7 +99,6 @@
   - [Gallivanter Peacemaker](https://www.gta5-mods.com/vehicles/gallivanter-peacemaker-add-on-tuning)
   - [Vapid Slamvan 4x4](https://www.gta5-mods.com/vehicles/vapid-slamvan-4x4-add-on-tuning-liveries)
   - [Declasse Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning)
-  - [Offroad B Rims Pack](https://www.gta5-mods.com/vehicles/offroad-b-rims-pack)
   - [Paragon Offroad](https://www.gta5-mods.com/vehicles/paragon-offroad)
   - [Progen PR4 Offroad](https://www.gta5-mods.com/vehicles/progen-pr4-offroad-add-on-tuning-lods)
   - [Karin Rebel Raid LODs](https://www.gta5-mods.com/vehicles/karin-rebel-raid-lods-add-on-modparts)
@@ -130,4 +129,59 @@
   - [E109 Off-Road](https://www.gta5-mods.com/vehicles/e109-off-road)
   - [Burrito Power Wheels](https://www.gta5-mods.com/vehicles/burrito-power-wheels-add-on-fivem)
 
+</details>
+
+<details>
+  <summary>Click to Expand - All Credits goes the original owners.</summary>
+  <code>
+    { model = 'rebelservice', name = 'Rebel Service', brand = 'Karin', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'rebelutility', name = 'Rebel Utility', brand = 'Karin', price = 20000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'frakas', name = 'Frakas', brand = 'Dinka', price = 16000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'mesaxl', name = 'Gator 4x4', brand = 'Canis', price = 35000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'gstyosemite1', name = 'Yosemite DRT', brand = 'Declasse', price = 70000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'kamswb', name = 'Kamacho SWB', brand = 'Canis', price = 48000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'squaddier', name = 'Squaddie Raid', brand = 'Mammoth', price = 75000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'baller7r', name = 'Gallivanter Baller Raid', brand = 'Gallivanter', price = 85000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'patriots', name = 'Mammoth Patriot Sport', brand = 'Mammoth', price = 60000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'patriots_2', name = 'Mammoth Patriot Sport', brand = 'Mammoth', price = 62000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'peacemaker', name = 'Peacemaker 2 Door', brand = 'Gallivanter', price = 70000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'peacemaker2', name = 'Peacemaker 4 Door', brand = 'Gallivanter', price = 72000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'peacemaker3', name = 'Peacemaker 4 Door 6x6', brand = 'Gallivanter', price = 110000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'slam4x4', name = 'Slamvan 4x4', brand = 'Vapid', price = 32000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'trailw', name = 'Trailwilder', brand = 'Annis', price = 38000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'paragono', name = 'Paragon Offroad', brand = 'Enus', price = 95000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'proff', name = 'Progen PR4 Offroad', brand = 'Progen', price = 98000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'rebelr', name = 'Rebel Raid', brand = 'Karin', price = 25000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'issio', name = 'Issi Offroad', brand = 'Weeny', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'caracara6x6', name = 'Caracara 6x6 8 Seater', brand = 'Vapid', price = 85000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'indiana', name = 'Indiana', brand = 'Declasse', price = 40000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'indianaxl', name = 'Indiana XL', brand = 'Declasse', price = 42000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'bobcatc', name = 'Vapid Bobcat Hellraiser', brand = 'Vapid', price = 34000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'sadler3', name = 'Sadler Dually', brand = 'Vapid', price = 37000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'mesar', name = 'Canis Mesa', brand = 'Canis', price = 30000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'riatao', name = 'Riata Outlaw', brand = 'Vapid', price = 68000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'weevilo', name = 'Weevil Outlaw', brand = 'BF', price = 22000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'everonb', name = 'Everon Stock', brand = 'Karin', price = 50000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'prally', name = 'Penumbra Cross', brand = 'Maibatsu', price = 24000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'baikal', name = 'Rune Baikal', brand = 'Rune', price = 55000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'terl300', name = 'L300', brand = 'Benefactor', price = 30000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'hellion2', name = 'Hellion XL', brand = 'Annis', price = 39000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'dubsta4x4', name = 'Dubsta 4x4', brand = 'Benefactor', price = 75000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'monster7', name = 'Liberator Mapped', brand = 'Vapid', price = 55000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'stanier5', name = 'Stanier Off-Road', brand = 'Vapid', price = 32000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'barrage2', name = 'Barrage Stock', brand = 'Unknown', price = 75000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'lilred', name = 'Lil' Red Express Bobcat', brand = 'Vapid', price = 29000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'bobcatxl3', name = 'Bobcat XL Trail', brand = 'Vapid', price = 25000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'sandking3', name = 'Sandking Trail Edition', brand = 'Vapid', price = 45000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'e109', name = 'E109 Off-Road', brand = 'Vapid', price = 28000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'burritopw', name = 'Burrito Power Wheels', brand = 'Declasse', price = 15000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'contenderbaja', name = 'Contender BAJA', brand = 'Vapid', price = 70000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'nsandstorm', name = 'Sandstorm', brand = 'Vapid', price = 45000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'hellenstorm', name = 'Hellenbach', brand = 'Vapid', price = 35000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'l35l', name = 'Walton', brand = 'Declasse', price = 17000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'l35r', name = 'Walton Rancher', brand = 'Declasse', price = 19000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'l35s', name = 'Walton Extended Bed', brand = 'Declasse', price = 21000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'manchezbw', name = 'Manchez Crawl', brand = 'Maibatsu', price = 10000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+    { model = 'rebelc', name = 'Rebel Crew Cab', brand = 'Karin', price = 22000, category = 'offroad', type = 'automobile', shop = 'pdm' }
+  </code>
 </details>
