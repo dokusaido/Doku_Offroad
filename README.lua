@@ -1,25 +1,35 @@
-#Lore Friendly Offroad Cars
-Just a throw together of lore-friendly offroad vehicles. 
+# Lore Friendly Offroad Cars
+Just a throw together of lore-friendly offroad vehicles.
+
 
 ## **Important ⚠️**
-- **All credits to go the original creators of these vehicles.** These vehicles may be removed from the pack if the owners will it.
-- **Treat all vehicles in this pack as the following:** Modifying this package and its contents except for the text data such as handling, meta files, and mod-kit, uploading or hosting it elsewhere as is or in a modified state, and selling, paywalling, or monetizing in any shape or form is prohibited.
-- **Most of these cannot be used as one of one's or as donator cars.**
+    - **All credits to go the original creators of these vehicles.** These vehicles may be removed from the pack if the owners will it.
+    - **Treat all vehicles in this pack as the following:** Modifying this package and its contents except for the text data such as handling, meta files, and mod-kit, uploading or hosting it elsewhere as is or in a modified state, and selling, paywalling, or monetizing in any shape or form is prohibited.
+    - **Most of these cannot be used as one of one's or as donator cars.**
+
 
 ## **Support**
-Support will be minimal. I intend to release a proper handling file for these vehicles instead of using the default ones, but it will come. All credits can all be found below.
+Support will be **minimal**. I intend to release a proper handling file for these vehicles instead of using the default ones, but it will come. All credits can all be found below.
+
 
 ## **To Do**
-- Update handling to realistic class system.
+    - [ ] Update handling to realistic class system.
 
 ## **Install**
-- Drag and drop.
-- Ensure LF_Offroad.
-- Adding cars to dealerships.
-- Add to `qb-core/shared/vehicles.lua`.
+    1. Drag and drop.
+    2. Ensure `LF_Offroad.meta` is included.
+    3. Adding cars to dealerships.
+    4. Add to `qb-core/shared/vehicles.lua`.
 
 
-    
+
+
+
+
+
+
+
+
 ***https://www.gta5-mods.com/vehicles/karin-rebel-crew-cab-add-on-fivem
 https://www.gta5-mods.com/vehicles/vapid-sandstorm-d205-add-on-tuning-liveries-lods
 https://www.gta5-mods.com/vehicles/vapid-contender-baja-add-on-fivem
