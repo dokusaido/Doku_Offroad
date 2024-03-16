@@ -4,8 +4,8 @@
 </h2>
 
 <!-- Visitor Badge -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME">
-  <img align="right" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://github.com/dokusaido/Doku_Offroad">
+  <img align="right" src="https://komarev.com/ghpvc/?username=dokusaido&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Introduction Section -->
