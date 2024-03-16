@@ -34,9 +34,10 @@
 <!-- Important Notice -->
 <h3 align="center">Important ⚠️</h3>
 <p>
-  - Modifying, uploading, hosting, selling, paywalling, or monetizing this package in any shape or form is prohibited.
-  <br/>
-  - Most vehicles cannot be used as one of one's or as donator cars.
+  <ul>
+    <li>Modifying, uploading, hosting, selling, paywalling, or monetizing this package in any shape or form is prohibited.</li>
+    <li>Most vehicles cannot be used as one of one's or as donator cars.</li>
+  </ul>
 </p>
 
 <!-- Support -->
@@ -48,7 +49,8 @@
 <!-- To Do List -->
 <h3 align="center">To Do</h3>
 <ul>
-  <li>Update handling to realistic class system.</li>
+  <li>[ ] Update handling to realistic class system.</li>
+  <!-- Add more items with [ ] to mark them as unchecked -->
 </ul>
 
 <!-- Installation Instructions -->
@@ -61,11 +63,10 @@
 </ul>
 
 <!-- Contact Section -->
-<h3 align="center">Contact</h3>
+<h3 align="center">Support</h3>
 <p align="center">
-  Reach out for more information or if you encounter any issues.
+  No support will be offered. But if any issues are raised, will see what I can do.
   <br>
-  <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
 </p>
 
 <!-- Social Links Placeholder -->
@@ -77,7 +78,7 @@
 </p>
 
 <details>
-  <summary>Click to Expand - Lore Friendly Offroad Cars Links</summary>
+  <summary>Click to Expand - All Credits goes the original owners.</summary>
   
   - [Karin Rebel Crew Cab](https://www.gta5-mods.com/vehicles/karin-rebel-crew-cab-add-on-fivem)
   - [Vapid Sandstorm D205](https://www.gta5-mods.com/vehicles/vapid-sandstorm-d205-add-on-tuning-liveries-lods)
