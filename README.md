@@ -50,6 +50,7 @@
 <h3 align="left">To Do</h3>
 <ul>
   <li>[ ] Update handling to realistic class system.</li>
+  <li>[ ] Begin adding the following categories: "Boats | Commercial | Compacts | Coupes | Cycles | Emergency | Helicopters | Industrial | Military | Motorcycles | Muscle | Planes | Sedans | Service | Sports | Sports Classics | Super | SUVs | Utility | Vans"</li>
   <!-- Add more items with [ ] to mark them as unchecked -->
 </ul>
 
