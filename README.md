@@ -62,8 +62,7 @@
   <li>[ ] Add to <code>'qb-core/shared/vehicles.lua'</code>.</li>
   <li>[ ] <details>
   <summary>Click to Expand - Qbcore Vehicles Code</summary>
-  <code>
-    { model = 'rebelservice', name = 'Rebel Service', brand = 'Karin', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
+  <code>{ model = 'rebelservice', name = 'Rebel Service', brand = 'Karin', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'rebelutility', name = 'Rebel Utility', brand = 'Karin', price = 20000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'frakas', name = 'Frakas', brand = 'Dinka', price = 16000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'mesaxl', name = 'Gator 4x4', brand = 'Canis', price = 35000, category = 'offroad', type = 'automobile', shop = 'pdm' },
@@ -111,8 +110,7 @@
     { model = 'l35r', name = 'Walton Rancher', brand = 'Declasse', price = 19000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'l35s', name = 'Walton Extended Bed', brand = 'Declasse', price = 21000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'manchezbw', name = 'Manchez Crawl', brand = 'Maibatsu', price = 10000, category = 'offroad', type = 'automobile', shop = 'pdm' },
-    { model = 'rebelc', name = 'Rebel Crew Cab', brand = 'Karin', price = 22000, category = 'offroad', type = 'automobile', shop = 'pdm' }
-  </code>
+    { model = 'rebelc', name = 'Rebel Crew Cab', brand = 'Karin', price = 22000, category = 'offroad', type = 'automobile', shop = 'pdm' }</code>
 </details></li>
 
 
