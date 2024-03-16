@@ -62,7 +62,7 @@
   <li>[ ] Adding cars to dealerships.</li>
   <li>[ ] Add to <code>'qb-core/shared/vehicles.lua'</code>.</li>
   <li>[ ] <details><summary>Click to Expand - Qbcore Vehicles Code</summary>
-  <code>'''lua
+ ```
     { model = 'rebelservice', name = 'Rebel Service', brand = 'Karin', price = 18000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'rebelutility', name = 'Rebel Utility', brand = 'Karin', price = 20000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'frakas', name = 'Frakas', brand = 'Dinka', price = 16000, category = 'offroad', type = 'automobile', shop = 'pdm' },
@@ -112,7 +112,7 @@
     { model = 'l35s', name = 'Walton Extended Bed', brand = 'Declasse', price = 21000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'manchezbw', name = 'Manchez Crawl', brand = 'Maibatsu', price = 10000, category = 'offroad', type = 'automobile', shop = 'pdm' },
     { model = 'rebelc', name = 'Rebel Crew Cab', brand = 'Karin', price = 22000, category = 'offroad', type = 'automobile', shop = 'pdm' }
-    '''</code>
+  ```
 </details></li>
 
 
