@@ -76,54 +76,57 @@
   <!-- <a href="#"><img src="YOUR_BADGE_LINK" alt="Instagram"/></a> -->
 </p>
 
+<details>
+  <summary>Click to Expand - Lore Friendly Offroad Cars Links</summary>
+  
+  - [Karin Rebel Crew Cab](https://www.gta5-mods.com/vehicles/karin-rebel-crew-cab-add-on-fivem)
+  - [Vapid Sandstorm D205](https://www.gta5-mods.com/vehicles/vapid-sandstorm-d205-add-on-tuning-liveries-lods)
+  - [Vapid Contender Baja](https://www.gta5-mods.com/vehicles/vapid-contender-baja-add-on-fivem)
+  - [2022 Vapid Caracara](https://www.gta5-mods.com/vehicles/2022-vapid-caracara-add-on-lods-tuning)
+  - [Schyster Javelin OC](https://www.gta5-mods.com/vehicles/schyster-javelin-oc-add-on-fivem-tuning-wheels-promotions-unlocked)
+  - [Declasse Walton L35 Stock](https://www.gta5-mods.com/vehicles/declasse-walton-l35-stock-add-on-lod-s-tuning-liverys)
+  - [Maibatsu Manchez Crawl](https://www.gta5-mods.com/vehicles/maibatsu-manchez-crawl-add-on)
+  - [Annis Trailwilder](https://www.gta5-mods.com/vehicles/annis-trailwilder-add-on-tuning-mmtgarage)
+  - [Karin Rebel Utility Pickup](https://www.gta5-mods.com/vehicles/karin-rebel-utility-pickup-addon)
+  - [Dinka Frakas](https://www.gta5-mods.com/vehicles/dinka-frakas-add-on-tuning-liverys)
+  - [Canis Gator 4x4](https://www.gta5-mods.com/vehicles/canis-gator-4x4-add-on-tuning-a8bada5c-a08e-4eb4-86a1-09226510da64)
+  - [Declasse Yosemite DRT](https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom)
+  - [Kamacho SWB](https://www.gta5-mods.com/vehicles/kamacho-swb-addon)
+  - [Mammoth Squaddie Raid](https://www.gta5-mods.com/vehicles/mammoth-squaddie-raid-addon-liveries-lods-l0-l1-l2-l3-l4)
+  - [Gallivanter Baller Raid](https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards)
+  - [Mammoth Patriot Sport](https://www.gta5-mods.com/vehicles/mammoth-patriot-sport-add-on-tuning-sounds-iv-decal)
+  - [Gallivanter Peacemaker](https://www.gta5-mods.com/vehicles/gallivanter-peacemaker-add-on-tuning)
+  - [Vapid Slamvan 4x4](https://www.gta5-mods.com/vehicles/vapid-slamvan-4x4-add-on-tuning-liveries)
+  - [Declasse Vigero Outlaw](https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning)
+  - [Offroad B Rims Pack](https://www.gta5-mods.com/vehicles/offroad-b-rims-pack)
+  - [Paragon Offroad](https://www.gta5-mods.com/vehicles/paragon-offroad)
+  - [Progen PR4 Offroad](https://www.gta5-mods.com/vehicles/progen-pr4-offroad-add-on-tuning-lods)
+  - [Karin Rebel Raid LODs](https://www.gta5-mods.com/vehicles/karin-rebel-raid-lods-add-on-modparts)
+  - [Sultan RS Offroad Edition](https://www.gta5-mods.com/vehicles/sultan-rs-offroad-edition)
+  - [Weeny Issi Offroad](https://www.gta5-mods.com/vehicles/weeny-issi-offroad-add-on-tuning-lods-shards)
+  - [Caracara 6x6 No Turret 8 Seater](https://www.gta5-mods.com/vehicles/caracara-6x6-no-turret-8-seater-add-on-fivem)
+  - [Improved Canis Terminus](https://www.gta5-mods.com/vehicles/improved-canis-terminus-replace)
+  - [Declasse Indiana Pack](https://www.gta5-mods.com/vehicles/declasse-indiana-pack)
+  - [Vapid Bobcat Hellraiser](https://www.gta5-mods.com/vehicles/vapid-bobcat-hellraiser)
+  - [Vapid Sadler Dually](https://www.gta5-mods.com/vehicles/vapid-sadler-dually)
+  - [Nagasaki Blazer Recon ATV](https://www.gta5-mods.com/vehicles/nagasaki-blazer-recon-atv-add-on-replace-liveries-template)
+  - [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
+  - [Vapid Riata Outlaw](https://www.gta5-mods.com/vehicles/vapid-riata-outlaw-addon-liverys-handling)
+  - [BF Weevil Outlaw](https://www.gta5-mods.com/vehicles/bf-weevil-outlaw-addon-tuning-liverys)
+  - [Karin Everon Stock](https://www.gta5-mods.com/vehicles/karin-everon-stock-add-on)
+  - [Penumbra Cross](https://www.gta5-mods.com/vehicles/penumbra-cross-add-on-turning-unlocked)
+  - [Rune Baikal](https://www.gta5-mods.com/vehicles/rune-baikal-add-on-tuning-liveries)
+  - [Benefactor L300](https://www.gta5-mods.com/vehicles/benefactor-l300-add-on-handling-tuning)
+  - [Annis Hellion XL](https://www.gta5-mods.com/vehicles/annis-hellion-xl-add-on-replace)
+  - [Bravado Mastodon Duneloader](https://www.gta5-mods.com/vehicles/bravado-mastodon-duneloader-add-on-liveries-template)
+  - [Benefactor Dubsta 4x4](https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4)
+  - [Vapid Liberator Mapped](https://www.gta5-mods.com/vehicles/vapid-liberator-mapped-add-on-replace-tuning)
+  - [Vapid Stanier Off-Road](https://www.gta5-mods.com/vehicles/vapid-stanier-off-road-add-on-replace-tuning-liveries)
+  - [Barrage Stock](https://www.gta5-mods.com/vehicles/barrage-stock-add-on-replace-tuning)
+  - [Lil' Red Express Bobcat](https://www.gta5-mods.com/vehicles/lil-red-express-bobcat)
+  - [BobcatXL Trail](https://www.gta5-mods.com/vehicles/bobcatxl-trail-add-on-replace)
+  - [Sandking Trail Edition](https://www.gta5-mods.com/vehicles/sandking-trail-edition)
+  - [E109 Off-Road](https://www.gta5-mods.com/vehicles/e109-off-road)
+  - [Burrito Power Wheels](https://www.gta5-mods.com/vehicles/burrito-power-wheels-add-on-fivem)
 
-https://www.gta5-mods.com/vehicles/karin-rebel-crew-cab-add-on-fivem
-https://www.gta5-mods.com/vehicles/vapid-sandstorm-d205-add-on-tuning-liveries-lods
-https://www.gta5-mods.com/vehicles/vapid-contender-baja-add-on-fivem
-https://www.gta5-mods.com/vehicles/2022-vapid-caracara-add-on-lods-tuning
-https://www.gta5-mods.com/vehicles/schyster-javelin-oc-add-on-fivem-tuning-wheels-promotions-unlocked
-https://www.gta5-mods.com/vehicles/declasse-walton-l35-stock-add-on-lod-s-tuning-liverys
-https://www.gta5-mods.com/vehicles/maibatsu-manchez-crawl-add-on
-https://www.gta5-mods.com/vehicles/annis-trailwilder-add-on-tuning-mmtgarage
-https://www.gta5-mods.com/vehicles/karin-rebel-utility-pickup-addon
-https://www.gta5-mods.com/vehicles/dinka-frakas-add-on-tuning-liverys
-https://www.gta5-mods.com/vehicles/canis-gator-4x4-add-on-tuning-a8bada5c-a08e-4eb4-86a1-09226510da64
-https://www.gta5-mods.com/vehicles/declasse-yosemite-drt-add-on-fivem-tuning-template-gom
-https://www.gta5-mods.com/vehicles/kamacho-swb-addon
-https://www.gta5-mods.com/vehicles/mammoth-squaddie-raid-addon-liveries-lods-l0-l1-l2-l3-l4
-https://www.gta5-mods.com/vehicles/gallivanter-baller-raid-add-on-tuning-lods-liveries-shards
-https://www.gta5-mods.com/vehicles/mammoth-patriot-sport-add-on-tuning-sounds-iv-decal
-https://www.gta5-mods.com/vehicles/gallivanter-peacemaker-add-on-tuning
-https://www.gta5-mods.com/vehicles/vapid-slamvan-4x4-add-on-tuning-liveries
-https://www.gta5-mods.com/vehicles/declasse-vigero-outlaw-addon-tuning
-https://www.gta5-mods.com/vehicles/offroad-b-rims-pack
-https://www.gta5-mods.com/vehicles/paragon-offroad
-https://www.gta5-mods.com/vehicles/progen-pr4-offroad-add-on-tuning-lods
-https://www.gta5-mods.com/vehicles/karin-rebel-raid-lods-add-on-modparts
-https://www.gta5-mods.com/vehicles/sultan-rs-offroad-edition
-https://www.gta5-mods.com/vehicles/weeny-issi-offroad-add-on-tuning-lods-shards
-https://www.gta5-mods.com/vehicles/caracara-6x6-no-turret-8-seater-add-on-fivem
-https://www.gta5-mods.com/vehicles/improved-canis-terminus-replace
-https://www.gta5-mods.com/vehicles/declasse-indiana-pack
-https://www.gta5-mods.com/vehicles/vapid-bobcat-hellraiser
-https://www.gta5-mods.com/vehicles/vapid-sadler-dually
-https://www.gta5-mods.com/vehicles/nagasaki-blazer-recon-atv-add-on-replace-liveries-template
-https://www.gta5-mods.com/vehicles/declasse-indiana-pack
-https://www.gta5-mods.com/vehicles/canis-mesa-add-on
-https://www.gta5-mods.com/vehicles/vapid-riata-outlaw-addon-liverys-handling
-https://www.gta5-mods.com/vehicles/bf-weevil-outlaw-addon-tuning-liverys
-https://www.gta5-mods.com/vehicles/karin-everon-stock-add-on
-https://www.gta5-mods.com/vehicles/penumbra-cross-add-on-turning-unlocked
-https://www.gta5-mods.com/vehicles/rune-baikal-add-on-tuning-liveries
-https://www.gta5-mods.com/vehicles/benefactor-l300-add-on-handling-tuning
-https://www.gta5-mods.com/vehicles/annis-hellion-xl-add-on-replace
-https://www.gta5-mods.com/vehicles/bravado-mastodon-duneloader-add-on-liveries-template
-https://www.gta5-mods.com/vehicles/benefactor-dubsta-4x4
-https://www.gta5-mods.com/vehicles/vapid-liberator-mapped-add-on-replace-tuning
-https://www.gta5-mods.com/vehicles/vapid-stanier-off-road-add-on-replace-tuning-liveries
-https://www.gta5-mods.com/vehicles/barrage-stock-add-on-replace-tuning
-https://www.gta5-mods.com/vehicles/lil-red-express-bobcat
-https://www.gta5-mods.com/vehicles/bobcatxl-trail-add-on-replace
-https://www.gta5-mods.com/vehicles/sandking-trail-edition
-https://www.gta5-mods.com/vehicles/e109-off-road
-https://www.gta5-mods.com/vehicles/burrito-power-wheels-add-on-fivem
+</details>
