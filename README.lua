@@ -1,29 +1,80 @@
-# Lore Friendly Offroad Cars
-Just a throw together of lore-friendly offroad vehicles.
+<!-- Banner Section -->
+<h2 align="center">
+  Lore Friendly Offroad Cars
+</h2>
 
+<!-- Visitor Badge -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME">
+  <img align="right" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-## **Important ⚠️**
-    - **All credits to go the original creators of these vehicles.** These vehicles may be removed from the pack if the owners will it.
-    - **Treat all vehicles in this pack as the following:** Modifying this package and its contents except for the text data such as handling, meta files, and mod-kit, uploading or hosting it elsewhere as is or in a modified state, and selling, paywalling, or monetizing in any shape or form is prohibited.
-    - **Most of these cannot be used as one of one's or as donator cars.**
+<!-- Introduction Section -->
+<h3 align="center">
+        <samp>&gt; Welcome, Offroad Enthusiasts!
+        </samp>
+</h3>
 
+<p align="center"> 
+  <samp>
+    A collection of lore-friendly offroad vehicles for your enjoyment and exploration.
+    <br>
+    <br>
+  </samp>
+</p>
 
-## **Support**
-Support will be **minimal**. I intend to release a proper handling file for these vehicles instead of using the default ones, but it will come. All credits can all be found below.
+<!-- Section Dividers -->
+<hr/>
 
+<!-- About the Project -->
+<h3 align="center">About the Project</h3>
+<p>
+  Just a throw together of lore-friendly offroad vehicles. All credits to go the original creators of these vehicles. Treat all vehicles in this pack with respect to the creators' wishes.
+</p>
 
-## **To Do**
-    - [ ] Update handling to realistic class system.
+<!-- Important Notice -->
+<h3 align="center">Important ⚠️</h3>
+<p>
+  - Modifying, uploading, hosting, selling, paywalling, or monetizing this package in any shape or form is prohibited.
+  <br/>
+  - Most vehicles cannot be used as one of one's or as donator cars.
+</p>
 
-## **Install**
-    1. Drag and drop.
-    2. Ensure `LF_Offroad.meta` is included.
-    3. Adding cars to dealerships.
-    4. Add to `qb-core/shared/vehicles.lua`.
+<!-- Support -->
+<h3 align="center">Support</h3>
+<p>
+  Support will be minimal. A proper handling file for these vehicles will be released in the future.
+</p>
 
+<!-- To Do List -->
+<h3 align="center">To Do</h3>
+<ul>
+  <li>Update handling to realistic class system.</li>
+</ul>
 
+<!-- Installation Instructions -->
+<h3 align="center">Install</h3>
+<ul>
+  <li>Drag and drop.</li>
+  <li>Ensure LF_Offroad.</li>
+  <li>Adding cars to dealerships.</li>
+  <li>Add to <code>'qb-core/shared/vehicles.lua'</code>.</li>
+</ul>
 
+<!-- Contact Section -->
+<h3 align="center">Contact</h3>
+<p align="center">
+  Reach out for more information or if you encounter any issues.
+  <br>
+  <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+</p>
 
+<!-- Social Links Placeholder -->
+<p align="center">
+  <!-- Uncomment and replace # with your profiles' URLs -->
+  <!-- <a href="#"><img src="YOUR_BADGE_LINK" alt="LinkedIn"/></a> -->
+  <!-- <a href="#"><img src="YOUR_BADGE_LINK" alt="Twitter"/></a> -->
+  <!-- <a href="#"><img src="YOUR_BADGE_LINK" alt="Instagram"/></a> -->
+</p>
 
 
 
