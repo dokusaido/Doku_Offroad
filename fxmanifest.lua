@@ -1,4 +1,7 @@
 fx_version 'cerulean'
+author 'doku'
+description 'Doku Lore Friendly Off-Road Car Pack'
+version '1.0.0'
 
 games { 'rdr3', 'gta5' }
 
