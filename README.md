@@ -58,7 +58,7 @@
 <h3 align="left">Install</h3>
 <ul>
   <li>[ ] Drag and drop.</li>
-  <li>[ ] Ensure LF_Offroad.</li>
+  <li>[ ] Ensure Doku_Offroad.</li>
   <li>[ ] Adding cars to dealerships.</li>
   <li>[ ] Add to <code>'qb-core/shared/vehicles.lua'</code>.</li>
   <li>[ ] <details><summary>Click to Expand - Qbcore Vehicles Code</summary>
